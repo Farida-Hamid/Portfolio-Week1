@@ -1,19 +1,32 @@
 header #my-logo {
   text-decoration: none;
   margin-top: 58px;
-  margin-left: 21px;
+  margin-left: 24px;
   font-size: 20px;
   color: #6070FF;
-  font: poppins;
+  font-family: poppins;
 }
 
 body{
   background: url("images/header-shapes-mobile.png") no-repeat;
   height: 558px;
-  font: poppins;
+  font-family: poppins;
 }
 
 #intro{
   margin-top: 206px;
   margin-left: 21px;
+}
+
+#intro p{
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#intro h3{
+  margin-top: 20px;
+  font-weight: 500;
+  color: #6070FF;
+  font-size: 16px;
+  text-transform: uppercase;
 }
