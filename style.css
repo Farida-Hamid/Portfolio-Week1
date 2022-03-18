@@ -1,6 +1,9 @@
 header #my-logo {
   text-decoration: none;
+  margin-top: 58px;
+  margin-left: 21px;
   font-size: 20px;
+  color: #6070FF;
   font: poppins;
 }
 
