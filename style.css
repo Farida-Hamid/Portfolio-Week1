@@ -3,7 +3,6 @@ header #my-logo {
   margin-left: 24px;
   font-size: 20px;
   color: #6070ff;
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 header #home {
@@ -18,17 +17,20 @@ body {
 #intro {
   background: url("images/header-shapes-mobile.png") no-repeat;
   height: 558px;
-  margin-top: 200px;
-  margin-left: 21px;
-  margin-right: 24px;
 }
 
-#intro p {
+#text {
+  margin-left: 21px;
+  margin-right: 24px;
+  padding-top: 150px;
+}
+
+#text p {
   font-weight: 400;
   font-size: 16px;
 }
 
-#intro h3 {
+#text h3 {
   margin-top: 20px;
   font-weight: 500;
   color: #6070ff;
