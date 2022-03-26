@@ -1,6 +1,6 @@
 # Portfolio-Week1
 
-> Build the first page of the mobile version of a portfolio website.
+> Build the first page of the mobile version of a portfolio website. *Second submission.*
 
 
 ## Built With
